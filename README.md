@@ -1,9 +1,8 @@
 ### Hello, World! 👋
 
-Thank you for visiting my GitHub! My name is Jeffery. <br>
-![name-jeff](assets/name-jeff.GIF)
+Thank you for visiting my GitHub! My name is Jeffery. 
 
-Software Engineer by day and hobbyist programmer by night, I focus on building projects that I find interesting or expand
+Software Engineer by day and hobbyist programmer by night, I focus on building projects that peak my interest, or expand
 on my SWE skills. 
 
 My current interests:
@@ -12,3 +11,5 @@ My current interests:
 * Bots, bots, and more bots!!
 
 Let's connect!
+<br>
+![name-jeff](assets/name-jeff.GIF)
